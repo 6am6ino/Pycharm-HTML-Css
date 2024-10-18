@@ -29,3 +29,7 @@ p {
 .styled-button:hover {
     background-color: #0056b3; /* Darker shade on hover */
 }
+
+.styled-button {
+    background-color: #28a745; /* Changed to green */
+}
